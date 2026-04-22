@@ -1,4 +1,4 @@
-# Git Repo Agent
+# GitHub Repo Agent
 
 <p align="center">
   <img src="images/icon-sm.png" alt="Git Snapshots logo" width="120"/>
@@ -28,8 +28,8 @@ Git Repo Agent eliminates the administrative friction of creating repositories a
 
 ## 🚀 Installation
 
-- Install from [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-repo-agent)
-- Command Line: `code --install-extension spajs.git-repo-agent`
+- Install from [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.github-repo-agent)
+- Command Line: `code --install-extension spajs.github-repo-agent`
 
 ## ✨ Features
 
@@ -59,8 +59,8 @@ student-handle-2 # Inline comments are ignored
 ```
 
 
-## ⚙️ Extension Settings [ ctrl + , ] / gitRepoAgent
-- `gitRepoAgent.usersFilePath`: Relative path to the users list file within the workspace. [default: `.vscode/repo-users.txt`]
+## ⚙️ Extension Settings [ ctrl + , ] / githubRepoAgent
+- `githubRepoAgent.usersFilePath`: Relative path to the users list file within the workspace. [default: `.vscode/repo-users.txt`]
 *Change this if you use an alternative editor (e.g., .codium/users.txt) or prefer storing the list elsewhere.*
 
 
